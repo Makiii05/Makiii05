@@ -1,16 +1,62 @@
-## Hi there 👋
+# Mark Anthony
 
-<!--
-**Makiii05/Makiii05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Junior Web Developer | Undergraduate on Computer Science**
 
-Here are some ideas to get you started:
+Computer Science student and Junior Web Developer focused on building practical and user-focused software solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Tech Stack
+
+### Languages
+
+* PHP
+* C#
+* Python
+* JavaScript
+* SQL
+
+### Web Development
+
+* Laravel
+* ASP.NET
+* HTML
+* CSS
+* Tailwind CSS
+
+### Databases
+
+* MySQL
+* SQLite
+
+### Tools & Frameworks
+
+* Git
+* REST APIs
+* React Native
+* Expo
+
+---
+
+## Currently Learning
+
+* Cloud-based Applications
+* Artificial Intelligence and Machine Learning
+* Agentic Development
+
+---
+
+## Interests
+
+* Web Development
+* Software Engineering
+* Artificial Intelligence
+* Machine Learning
+* Database Management Systems
+* Mobile Development
+
+---
+
+## Connect With Me
+
+* [LinkedIn]([https://linkedin.com/](https://www.linkedin.com/in/mark-lina-ba6b83265/)
